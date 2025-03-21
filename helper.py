@@ -76,9 +76,9 @@ class ThreeDObject:
             self.matrix = matrix
         else:
             # Default values
-            position = position if position is not None else Position.default
-            orientation = orientation if orientation is not None else Orientation.default
-            scale = scale if scale is not None else Scale.default
+            position = position if position is not None else Position.default()
+            orientation = orientation if orientation is not None else Orientation.default()
+            scale = scale if scale is not None else Scale.default()
             self.matrix = self.create_transformation_matrix(position, orientation, scale)
 
     @staticmethod
