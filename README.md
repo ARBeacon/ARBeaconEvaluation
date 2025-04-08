@@ -25,3 +25,5 @@ Evaluation scripts and analysis for the Beacon-Assist AR Synchronization project
 
 ## 📑 Raw Logs
 You may find raw logs from iOS apps in [`\Logs`](Logs) directory
+
+_Note: This README.md was refined with the assistance of [DeepSeek](https://www.deepseek.com)_
