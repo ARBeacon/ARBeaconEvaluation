@@ -6,6 +6,8 @@ Evaluation scripts and analysis for the Beacon-Assist AR Synchronization project
 ## 🔍 Core Analysis Tools
 
 ### [helper.py](helper.py) 
+![Image](https://github.com/user-attachments/assets/bc64d2db-9575-4a6c-8844-f31d5baf5932)
+
 3D transform computational utilities:
 - **Pose Averaging**: Weighted position/orientation merging
 - **Relative Transforms**: Homogeneous matrix operations
